@@ -19,5 +19,5 @@
     - libtool
     - bison
     - sqlite-devel
-- name: install RVM and Ruby
-  script: file.sh
+#- name: install RVM and Ruby
+#  script: file.sh
